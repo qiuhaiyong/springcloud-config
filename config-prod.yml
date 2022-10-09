@@ -1,1 +1,2 @@
-
+config:
+  info: "prod branch main/springcloud-config version=2"

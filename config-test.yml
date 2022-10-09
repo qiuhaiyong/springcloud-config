@@ -1,1 +1,2 @@
-
+config:
+  info: "test branch main/springcloud-config version=2"
